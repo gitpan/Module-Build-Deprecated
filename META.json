@@ -56,19 +56,19 @@
    "provides" : {
       "Module::Build::Deprecated" : {
          "file" : "lib/Module/Build/Deprecated.pm",
-         "version" : "0.001"
+         "version" : "0.002"
       },
       "Module::Build::ModuleInfo" : {
          "file" : "lib/Module/Build/ModuleInfo.pm",
-         "version" : "0.001"
+         "version" : "0.002"
       },
       "Module::Build::Version" : {
          "file" : "lib/Module/Build/Version.pm",
-         "version" : "0.001"
+         "version" : "0.002"
       },
       "Module::Build::YAML" : {
          "file" : "lib/Module/Build/YAML.pm",
-         "version" : "0.001"
+         "version" : "0.002"
       }
    },
    "release_status" : "stable",
@@ -83,6 +83,6 @@
          "web" : "https://github.com/Leont/module-build-deprecated"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
 

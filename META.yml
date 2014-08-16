@@ -21,16 +21,16 @@ name: Module-Build-Deprecated
 provides:
   Module::Build::Deprecated:
     file: lib/Module/Build/Deprecated.pm
-    version: '0.001'
+    version: '0.002'
   Module::Build::ModuleInfo:
     file: lib/Module/Build/ModuleInfo.pm
-    version: '0.001'
+    version: '0.002'
   Module::Build::Version:
     file: lib/Module/Build/Version.pm
-    version: '0.001'
+    version: '0.002'
   Module::Build::YAML:
     file: lib/Module/Build/YAML.pm
-    version: '0.001'
+    version: '0.002'
 requires:
   CPAN::Meta::YAML: '0.002'
   Module::Metadata: '0'
@@ -43,4 +43,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Module-Build-Deprecated
   repository: git://github.com/Leont/module-build-deprecated.git
-version: '0.001'
+version: '0.002'

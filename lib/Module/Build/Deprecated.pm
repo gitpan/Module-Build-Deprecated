@@ -1,5 +1,5 @@
 package Module::Build::Deprecated;
-$Module::Build::Deprecated::VERSION = '0.001';
+$Module::Build::Deprecated::VERSION = '0.002';
 use strict;
 use warnings;
 
@@ -17,7 +17,7 @@ Module::Build::Deprecated - A collection of modules removed from Module-Build
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 DESCRIPTION
 
