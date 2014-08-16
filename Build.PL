@@ -18,7 +18,7 @@ my %module_build_args = (
     "Leon Timmermans <leont\@cpan.org>"
   ],
   "dist_name" => "Module-Build-Deprecated",
-  "dist_version" => "0.4207",
+  "dist_version" => "0.4208",
   "license" => "perl",
   "module_name" => "Module::Build::Deprecated",
   "recommends" => {},
