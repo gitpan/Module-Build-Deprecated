@@ -1,7 +1,7 @@
 # -*- mode: cperl; tab-width: 8; indent-tabs-mode: nil; basic-offset: 2 -*-
 # vim:ts=8:sw=2:et:sta:sts=2
 package Module::Build::ModuleInfo;
-$Module::Build::ModuleInfo::VERSION = '0.002';
+$Module::Build::ModuleInfo::VERSION = '0.4207';
 use strict;
 use warnings;
 
@@ -23,7 +23,7 @@ Module::Build::ModuleInfo - DEPRECATED
 
 =head1 VERSION
 
-version 0.002
+version 0.4207
 
 =head1 DESCRIPTION
 

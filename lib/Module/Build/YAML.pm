@@ -21,7 +21,7 @@ Module::Build::YAML - DEPRECATED
 
 =head1 VERSION
 
-version 0.002
+version 0.4207
 
 =head1 DESCRIPTION
 
