@@ -1,5 +1,8 @@
 Revision history for Module-Build-Deprecated
 
+0.4210    2014-08-19 20:33:51+02:00 Europe/Amsterdam
+          Fix POD issue (Graham Knop)
+
 0.4209    2014-08-16 13:57:23+02:00 Europe/Amsterdam
           Reenable PodWeaver
 

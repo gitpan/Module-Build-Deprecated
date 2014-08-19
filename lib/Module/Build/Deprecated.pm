@@ -1,9 +1,12 @@
 package Module::Build::Deprecated;
-$Module::Build::Deprecated::VERSION = '0.4209';
+$Module::Build::Deprecated::VERSION = '0.4210';
 use strict;
 use warnings;
 
 # ABSTRACT: A collection of modules removed from Module-Build
+
+
+1;
 
 __END__
 
@@ -17,7 +20,7 @@ Module::Build::Deprecated - A collection of modules removed from Module-Build
 
 =head1 VERSION
 
-version 0.4209
+version 0.4210
 
 =head1 DESCRIPTION
 
@@ -38,8 +41,6 @@ This has been replaced by L<version|version>
 This has been replaced by L<CPAN::Meta::YAML>
 
 =back
-
-1;
 
 =head1 AUTHOR
 

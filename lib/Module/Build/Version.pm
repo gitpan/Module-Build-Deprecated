@@ -22,7 +22,7 @@ Module::Build::Version - DEPRECATED
 
 =head1 VERSION
 
-version 0.4209
+version 0.4210
 
 =head1 DESCRIPTION
 
